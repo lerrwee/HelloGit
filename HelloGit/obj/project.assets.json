@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitRepos\\HelloGit\\HelloGit\\HelloGit.csproj",
+      "projectUniqueName": "C:\\GitRepos\\HelloGitParticipant2\\HelloGit\\HelloGit\\HelloGit.csproj",
       "projectName": "HelloGit",
-      "projectPath": "C:\\GitRepos\\HelloGit\\HelloGit\\HelloGit.csproj",
+      "projectPath": "C:\\GitRepos\\HelloGitParticipant2\\HelloGit\\HelloGit\\HelloGit.csproj",
       "packagesPath": "C:\\Users\\Valeria\\.nuget\\packages\\",
-      "outputPath": "C:\\GitRepos\\HelloGit\\HelloGit\\obj\\",
+      "outputPath": "C:\\GitRepos\\HelloGitParticipant2\\HelloGit\\HelloGit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
