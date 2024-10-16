@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, Git! Welcome to Visual Studio!");
             Console.WriteLine("Hello, Git! This is the second participant.");
+            Console.WriteLine("Hello, Git! This is the first participant.");
         }
     }
 }
